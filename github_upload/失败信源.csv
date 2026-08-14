@@ -1,0 +1,10 @@
+﻿信源ID,信源名称,层级,URL,连通性,命中记录数,页面字节数,错误信息
+govcn,国务院政策文件库,国家,https://www.gov.cn/zhengce/zhengceku/,不可达,,,FetchError: GET https://www.gov.cn/zhengce/zhengceku/ 失败（尝试 2 次）：403 Client Error: Forbidden for url: https://www.gov.cn/zhengce/zhengceku/
+scio,国务院新闻办,国家,https://www.scio.gov.cn,不可达,,,"FetchError: GET https://www.scio.gov.cn 失败（尝试 2 次）：HTTPSConnectionPool(host='www.scio.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)')))"
+cs-zjw,长沙市住房和城乡建设局,市级,https://szjw.changsha.gov.cn,不可达,,,"FetchError: GET https://szjw.changsha.gov.cn 失败（尝试 2 次）：HTTPSConnectionPool(host='szjw.changsha.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'szjw.changsha.gov.cn'. (_ssl.c:1032)"")))"
+sz-pnr,深圳市规划和自然资源局,市级,https://pnr.sz.gov.cn,不可达,,,FetchError: GET https://pnr.sz.gov.cn 失败（尝试 2 次）：412 Client Error: Precondition Failed for url: https://pnr.sz.gov.cn/
+sz-portal,深圳市人民政府,市级,https://www.sz.gov.cn,不可达,,,"FetchError: GET https://www.sz.gov.cn 失败（尝试 2 次）：HTTPSConnectionPool(host='www.sz.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)')))"
+cd-zjw,成都市住房和城乡建设局,市级,http://cdzj.chengdu.gov.cn,不可达,,,FetchError: GET http://cdzj.chengdu.gov.cn 失败（尝试 2 次）：412 Client Error: Precondition Failed for url: https://cdzj.chengdu.gov.cn/
+gs-zjw,甘肃省住房和城乡建设厅,省级,https://zjt.gansu.gov.cn,不可达,,,FetchError: GET https://zjt.gansu.gov.cn 失败（尝试 2 次）：412 Client Error: Precondition Failed for url: https://zjt.gansu.gov.cn/
+cdb,国家开发银行,融资平台,https://www.cdb.cn,不可达,,,FetchError: GET https://www.cdb.cn 失败（尝试 2 次）：412 Client Error: Precondition Failed for url: https://www.cdb.cn/
+cpppc,财政部政府和社会资本合作中心,融资平台,https://www.cpppc.org,不可达,,,FetchError: GET https://www.cpppc.org 失败（尝试 2 次）：403 Client Error: Forbidden for url: https://www.cpppc.org/
